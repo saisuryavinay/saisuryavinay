@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hi 👋, I'm Devu Sai Surya Vinay</h1>
 <h3 align="center">An Aspiring Full Stack Developer | B.Tech 3rd Year | Passionate about code</h3>
 <img align"center" alt"coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
@@ -31,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saisuryavinay&show_icons=true&locale=en" alt="saisuryavinay" /></p>
 
+</center>
