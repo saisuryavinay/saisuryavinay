@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devu Sai Surya Vinay</h1>
 <h3 align="center">Aspiring Full Stack Developer | B.Tech 3rd Year | Passionate about code</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Node+js+%26+React+for+Backend;Engineering+Student" alt="Typing SVG" />
+</p>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNyMmk5ZTM2OG02ZTF0ZjNxOXU3Y2Nld2t6ZW55NG9iN3RkNzR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding" width="400"/>
 </div>
@@ -10,7 +12,7 @@
 </p>
 
 ---
-
+- 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
 - 🔭 I’m currently working on **Personal Portfolio**
 - 🌱 I’m learning **JavaScript & ReactJS**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinay-devu/) | [Email](mailto:saisuryavinay06@gmail.com)
@@ -22,14 +24,11 @@
 ## 👥 Connect with Me:
 
 <p align="center">
-  <a href="https://linkedin.com/in/vinay-devu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/_sai_surya_vinay_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  <a href="mailto:saisuryavinay06@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/vinay-devu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:saisuryavinay06@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/saisuryavinay"><img src="https://skillicons.dev/icons?i=github" /></a>
+   <a href="https://instagram.com/_sai_surya_vinay_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" />
   </a>
 </p>
 
@@ -57,7 +56,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,aws,git,github" />
 </p>
 
 ---
@@ -67,8 +66,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saisuryavinay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
+ <br>
+ <p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false">
+   
+<br>
+   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryavinay&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
