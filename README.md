@@ -68,7 +68,7 @@
 </p>
  <br>
  <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SivaRamaChakradhar&theme=dark&hide_border=false">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=saisuryavinay&theme=dark&hide_border=false">
    
 <br>
    <p align="center">
