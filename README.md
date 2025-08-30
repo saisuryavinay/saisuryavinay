@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Personal Portfolio**
 - 🌱 I’m learning **JavaScript & ReactJS**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinay-devu/) | [Email](mailto:saisuryavinay06@gmail.com)
-- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1iKAdKkdBbI6pu50uvn1bn06sg0m38H3o/view?usp=sharing)
+- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1feO2rNFcmlMReIzbQ7yKs8ehz2ScgF1C/view?usp=sharing)
 - ⚡ Fun fact: **I bring the fun to functions 😉**
 
 ---
