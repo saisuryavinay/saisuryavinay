@@ -8,6 +8,10 @@
 </div>
 
 <p align="center">
+  <a href="https://drive.google.com/file/d/1f1UImauCbfluQ6TS1_eGrBz-QfZEi9J3/view?usp=sharing">
+<!--     <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-informational?style=for-the-badge&color=02daed" alt="Resume"/> -->
+    <img src="https://img.shields.io/badge/See%20My%20Resume-Click%20Here-02daed" alt="Resume"/>
+  </a> <br>
   <img src="https://komarev.com/ghpvc/?username=saisuryavinay&label=Profile%20views&color=0e75b6&style=flat" alt="saisuryavinay" />
 </p>
 
