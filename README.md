@@ -60,7 +60,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,bootstrap,nodejs,mongodb,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,bootstrap,nodejs,expressjs,mongodb,aws,git,github,vscode,postman" />
 </p>
 
 ---
