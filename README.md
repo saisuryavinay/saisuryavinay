@@ -60,7 +60,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,bootstrap,nodejs,expressjs,mongodb,aws,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,react,bootstrap,nodejs,expressjs,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saisuryavinay&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=saisuryavinay&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
 </p>
  <br>
  <p align="center">
@@ -76,7 +76,7 @@
    
 <br>
    <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryavinay&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryavinay&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
 ---
