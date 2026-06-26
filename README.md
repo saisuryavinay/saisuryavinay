@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devu Sai Surya Vinay</h1>
-<h3 align="center">Aspiring Full Stack Developer | B.Tech 3rd Year | Passionate about code</h3>
+<h3 align="center">
+Full Stack Developer | Frontend & Backend Developer | Java • Python • SQL • MongoDB • React.js • Node.js
+</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Future+Full+Stack+Developer;Java+%7C+Python+%7C+SQL+Lover;Learning+Node+js+%26+React+for+Backend;Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Developer+%7C+Backend+Developer;Java+%7C+Python+%7C+SQL+%7C+MongoDB;React+%7C+Node.js+%7C+Express.js;REST+API+Developer;Problem+Solver+%7C+DSA+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNyMmk5ZTM2OG02ZTF0ZjNxOXU3Y2Nld2t6ZW55NG9iN3RkNzR1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="coding" width="400"/>
@@ -16,12 +18,19 @@
 </p>
 
 ---
-- 🎓 I'm currently pursuing **B.Tech 3rd Year in Computer Science (AI & ML)**  
-- 🔭 I’m currently working on **Personal Portfolio**
-- 🌱 I’m learning **JavaScript & ReactJS**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vinay-devu/) | [Email](mailto:saisuryavinay06@gmail.com)
-- 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1f1UImauCbfluQ6TS1_eGrBz-QfZEi9J3/view?usp=sharing)
-- ⚡ Fun fact: **I bring the fun to functions 😉**
+  ## 👨‍💻 About Me
+
+* 🎓 B.Tech in **Computer Science (AI & ML)** | Class of 2027
+* 💻 Passionate about **Software Engineering** and **Full Stack Development**
+* 🧩 Solved **500+ Data Structures & Algorithms** problems across **LeetCode** and **CodeChef**
+* 🚀 Building scalable web applications using **React.js, Node.js, Express.js, and MongoDB**
+* 🌱 Currently exploring **Cloud Computing, System Design, and AI-powered Applications**
+* 🏆 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**
+* 🤝 Always eager to learn, collaborate, and build impactful software
+* 🌐 **Portfolio:** https://saisuryavinay.me/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/saisuryavinay/
+* 📧 **Email:** [saisuryavinay06@gmail.com](mailto:saisuryavinay06@gmail.com)
+
 
 ---
 
@@ -68,17 +77,12 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=saisuryavinay&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
-</p>
- <br>
- <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=saisuryavinay&theme=dark&hide_border=false">
-   
-<br>
-   <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryavinay&layout=compact&theme=tokyonight" alt="Top Languages" /> -->
+<img src="https://streak-stats.demolab.com?user=saisuryavinay&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisuryavinay&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+</p>
 ---
 
 > 🔥 *"Keep coding, keep growing!"*
