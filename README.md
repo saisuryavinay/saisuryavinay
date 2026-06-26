@@ -50,17 +50,20 @@ Full Stack Developer | Frontend & Backend Developer | Java • Python • SQL �
 ## 💻 Coding Profiles:
 
 <p align="center">
+  <a href="https://leetcode.com/u/_sai_surya_vinay/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/saisuryavinay06" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
   <a href="https://www.codechef.com/users/saisuryavinay" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/codechef.png" height="40" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/saisuryavinay06" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/225/395/png-transparent-hackerrank-hd-logo.png" height="40" alt="HackerRank" />
-  </a>
-  <a href="https://leetcode.com/_sai_surya_vinay" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vinay_devu18" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="GeeksforGeeks" />
+
+  <a href="https://www.geeksforgeeks.org/profile/vinay_devu18" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
